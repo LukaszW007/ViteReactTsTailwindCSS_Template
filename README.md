@@ -1,6 +1,5 @@
-# Canvas Editor Online
+# Vite Template
 
-Drop your picture, add some text, and export to PNG. 
 Tech-stack:
 - React
 - Typescript
